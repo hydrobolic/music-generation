@@ -1,4 +1,3 @@
-# Heavily inspried by https://github.com/Skuldur/Classical-Piano-Composer
 import os, keras, pickle
 import numpy as np
 from music21 import converter, instrument, stream, note, chord

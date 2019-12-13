@@ -1,18 +1,5 @@
 #!/usr/bin/python3
 
-"""
-First, I need to make sure that I can write to a music file. I tried doing this manually, in pure Python, and it is slow and clearly not going to be successful, The script is "MIDI.py".
-
-
-Initial notes:
-  The music21 library, developed by MIT, is going to be extrodinairly useful for these projects as it appears to be a pretty powerful manager capable of representing virtually any music. However, first, I'm going to need to learn how to use this.
-
-
-"""
-
-
-
-
 import math, random, copy, music21
 
 
